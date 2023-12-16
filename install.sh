@@ -4,7 +4,7 @@ set -e
 
 
 export SCRIPT_VERSION="main"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/unknownpersonog/RDPXcript"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/wdkaoidawjuod7u93y48/RDPXcript"
 
 LOG_PATH="/var/log/RDPXcript.log"
 # exit with error status code if user is not root
@@ -61,7 +61,7 @@ done=false
 output "RDPXcript @ $SCRIPT_VERSION"
 output
 output "Made by UnknownGamer with love"
-output "https://github.com/unknownpersonog/RDPXcript"
+output "https://github.com/wdkaoidawjuod7u93y48/RDPXcript"
 output
 output "Audio Transmission doesn't work with VPSes! Do not make a issue regarding that! We are trying to get it to work!"
 output "This script is non-official so please do no ask for Chrome Remote Desktop Community for help!"
