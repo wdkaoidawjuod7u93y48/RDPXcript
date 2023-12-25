@@ -46,7 +46,7 @@ curl -Lo chrome-remote-desktop_current_amd64.deb https://dl.google.com/linux/dir
 sudo apt-get install --assume-yes "/crdxcript/chrome-remote-desktop_current_amd64.deb"
 cd $HOME
 output "Chrome Remote Desktop Installation Completed!"
-rm -r /crdxcript
+rm -r /home/runner/FrighteningOccasionalProgramminglanguage/crdxcript
 }
 gui_install() {
 asknl "Which Desktop GUI would you like to install?"
